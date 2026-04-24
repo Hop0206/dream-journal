@@ -1,13 +1,11 @@
 from utils import save_dream, load_dreams, search_dreams
 
-
 def menu():
     print("\n🌙 Dream Journal")
     print("1. Add a dream")
     print("2. View all dreams")
     print("3. Search dreams")
     print("4. Exit")
-
 
 def main():
     while True:
@@ -39,16 +37,5 @@ def main():
         else:
             print("Invalid choice.")
 
-
 if __name__ == "__main__":
     main()
-Initial commit - project structure
-Add main program with menu interface
-Implement saving and loading dreams
-Add keyword search for dreams
-Improve user interface messages
-Add basic unit test for search
-Write project documentation in README
-Handle missing file and invalid input
-Add timestamp to saved dreams
-Clean code and organize project structure
