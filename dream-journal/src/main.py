@@ -51,3 +51,4 @@ Add basic unit test for search
 Write project documentation in README
 Handle missing file and invalid input
 Add timestamp to saved dreams
+Clean code and organize project structure
