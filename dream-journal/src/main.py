@@ -47,3 +47,4 @@ Add main program with menu interface
 Implement saving and loading dreams
 Add keyword search for dreams
 Improve user interface messages
+Add basic unit test for search
