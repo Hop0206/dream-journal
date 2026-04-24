@@ -46,3 +46,4 @@ Initial commit - project structure
 Add main program with menu interface
 Implement saving and loading dreams
 Add keyword search for dreams
+Improve user interface messages
