@@ -44,3 +44,4 @@ if __name__ == "__main__":
     main()
 Initial commit - project structure
 Add main program with menu interface
+Implement saving and loading dreams
