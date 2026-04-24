@@ -48,3 +48,4 @@ Implement saving and loading dreams
 Add keyword search for dreams
 Improve user interface messages
 Add basic unit test for search
+Write project documentation in README
