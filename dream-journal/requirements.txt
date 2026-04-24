@@ -1,0 +1,11 @@
+"""
+# No external libraries needed for now
+"""
+
+# File: .gitignore
+"""
+__pycache__/
+*.pyc
+.env
+venv/
+"""
